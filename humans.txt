@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Company: 4vina.cz
+  Site: blog.4vina.cz
+  Twitter: 
+  Location: 
+
+/* THANKS */
+  Names (& URL): Honza Štěrba (http://honzasterba.cz/), Patrik Jíra (http://patrikjira.com/)
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: HTML5shiv, jQuery
+  Software: Rubymine
