@@ -1,0 +1,21 @@
+<section>
+    <article class="single">
+        <header>
+            <time>
+                <span class="day">{{ post.day }}</span>
+                <span class="month">{{ post.month }}</span>
+                <span class="year">{{ post.year }}</span>
+            </time>
+                    <span class="authors">
+                        {% for author in post.authors %}
+                        <img src="images/{{ author }}.png" alt="{{ author | capitalize }}"/>
+                        {% endfor %}
+                    </span>
+
+            <h1>{{ post.title }}</h1>
+        </header>
+
+        {{ post.content }}
+
+    </article>
+</section>

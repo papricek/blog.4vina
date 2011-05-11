@@ -1,0 +1,16 @@
+---
+layout: default
+title: První a jedinej článek na hlavní stránce
+perex: Napůl říznout, ať je to dobrý. Kachna je totiž moderátorka. Takže zpátky do pařáku.
+authors:
+- honza
+day: 5
+month: říjen
+year: 2011
+---
+
+Napůl říznout, ať je to dobrý. Kachna je totiž moderátorka. Takže zpátky do pařáku. Dávaj tam rozmarýn, tymián v Áziji, na něj cejtíte šťávu z holubinek a lokše budou. A nakonec ještě necháme dojít. A cukr do vajíčka. A budeme zdobit perníčky.
+
+Napůl říznout, ať je to dobrý. Kachna je totiž moderátorka. Takže zpátky do pařáku. Dávaj tam rozmarýn, tymián v Áziji, na něj cejtíte šťávu z holubinek a lokše budou. A nakonec ještě necháme dojít. A cukr do vajíčka. A budeme zdobit perníčky.
+
+Napůl říznout, ať je to dobrý. Kachna je totiž moderátorka. Takže zpátky do pařáku. Dávaj tam rozmarýn, tymián v Áziji, na něj cejtíte šťávu z holubinek a lokše budou. A nakonec ještě necháme dojít. A cukr do vajíčka. A budeme zdobit perníčky.

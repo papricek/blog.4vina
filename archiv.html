@@ -1,0 +1,10 @@
+---
+layout: default
+title: Archiv blog.4vína.cz
+---
+
+<section>
+{% for post in site.posts limit:5 %}
+{% include post_listing.html %}
+{% endfor %}
+</section>
