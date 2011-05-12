@@ -84,6 +84,18 @@ section { width: 780px;
         .authors { background: white; padding: 10px; display: block;  position: absolute; top: -42px; right: 20px; @include round-top; }
         #disqus_thread { display: none; margin: 20px 0; }
         #disqus-button { position: absolute; bottom: -2px; right: 20px; }
+        &.listing {
+            time { top: 15px; }
+            .authors { margin-top: 5px; 
+                position: static; float: left; padding: 0 10px; 
+            }
+            h2 { font-size: 1.4em;
+                a { color: $color; text-decoration: none;
+                    &:hover { text-decoration: underline; }
+                }
+            }
+
+        }
     }
 }
 

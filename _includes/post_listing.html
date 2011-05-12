@@ -5,11 +5,11 @@
             <span class="month">{{ post.month }}</span>
             <span class="year">{{ post.year }}</span>
         </time>
-                    <span class="authors">
-                        {% for author in post.authors %}
-                        <img src="images/{{ author }}.png" alt="{{ author | capitalize }}"/>
-                        {% endfor %}
-                    </span>
+        <span class="authors">
+            {% for author in post.authors %}
+                <img src="images/{{ author }}.png" alt="{{ author | capitalize }}"/>
+            {% endfor %}
+        </span>
 
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     </header>

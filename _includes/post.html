@@ -2,20 +2,20 @@
     <article class="single">
         <header>
             <time>
-                <span class="day">{{ post.day }}</span>
-                <span class="month">{{ post.month }}</span>
-                <span class="year">{{ post.year }}</span>
+                <span class="day">{{ page.day }}</span>
+                <span class="month">{{ page.month }}</span>
+                <span class="year">{{ page.year }}</span>
             </time>
                     <span class="authors">
-                        {% for author in post.authors %}
-                        <img src="images/{{ author }}.png" alt="{{ author | capitalize }}"/>
+                        {% for author in page.authors %}
+                        <img src="/images/{{ author }}.png" alt="{{ author | capitalize }}"/>
                         {% endfor %}
                     </span>
 
-            <h1>{{ post.title }}</h1>
+            <h1>{{ page.title }}</h1>
         </header>
 
-        {{ post.content }}
+        {{ page.content }}
 
         <p>
             <a href="#disqus_thread" id="disqus-button" class="button">
@@ -30,8 +30,8 @@
             var disqus_shortname = 'blog4vinacz'; // required: replace example with your forum shortname
 
             // The following are highly recommended additional parameters. Remove the slashes in front to use.
-            var disqus_identifier = '{{ post.id }}';
-            var disqus_url = 'http://{{ site.host }}{{ post.url }}';
+            var disqus_identifier = '{{ page.id }}';
+            var disqus_url = 'http://{{ site.host }}{{ page.url }}';
 
             /* * * DON'T EDIT BELOW THIS LINE * * */
             (function() {
@@ -41,8 +41,5 @@
             })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        
-
-
     </article>
 </section>
