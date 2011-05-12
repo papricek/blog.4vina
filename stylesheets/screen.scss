@@ -66,7 +66,7 @@ aside {  position: absolute; top: 110px; right: 0; width: 180px;
 
 // content, article
 section { width: 780px;
-    article { background: white; padding: 20px; margin: 10px 0px 10px 50px; position: relative; @include round;
+    article { background: white; padding: 20px 20px 40px 20px; margin: 10px 0px 10px 50px; position: relative; @include round;
         h1 { font-size: 2.1em; }
         p { font-size: 1.1em; }
         time { background: white; padding: 5px 10px 5px 10px; text-align: center; display: block;
@@ -77,12 +77,15 @@ section { width: 780px;
         }
         figure { text-align: center; margin: 20px 0 ; }
         .authors { background: white; padding: 10px; display: block;  position: absolute; top: -42px; right: 20px; @include round-top; }
+        #disqus_thread { display: none; margin: 20px 0; }
+        #disqus-button { position: absolute; bottom: -2px; left: 350px; }
     }
 }
 
 
 
 // general
+a.button { background: $grey; font-weight: bold; color: $color; padding: 4px 10px; text-decoration: none; @include round(5px); }
 .icon { line-height:24px; background-position:top left; width: 32px; height:32px; overflow: hidden;
        float:left; display:block; text-indent: 32px; margin:0 3px; background-repeat :no-repeat!important; }
 .text-icon { text-decoration: none; padding:10px; padding-left:20px;
