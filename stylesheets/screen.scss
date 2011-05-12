@@ -39,7 +39,12 @@ h1, h2, h3 { font-family: 'Droid serif', Georgia, Serif; font-weight: normal;  }
 #container { position: relative; width: 980px; margin: auto; text-align: left; min-height: 100%;
   #container-inner { padding-bottom: 70px; }
 }
-header.main { margin: 30px 0 20px 50px; }
+header.main { padding: 30px 0 20px 60px;
+    h1 { position: relative;
+        span { position: absolute; top: 24px; left: -70px; font-size: 2em; font-style: italic; }
+    }
+}
+
 footer { height: 50px; margin-top: -52px; clear: both; text-align: center;
     position:relative; z-index: 10; background: url(../images/background-dark.png);
     #footer-inner { margin: auto; width: 980px; text-align: left;
@@ -51,13 +56,13 @@ footer { height: 50px; margin-top: -52px; clear: both; text-align: center;
         #link-to-all { float: right; font-weight:bold; margin-right: 200px; }
     }
 }
-aside {  position: absolute; top: 110px; right: 0; width: 180px;
-    nav { background: white; padding: 10px; width:160px; @include round;
+
+aside {  position: absolute; top: 160px; right: 0; width: 160px;
+    nav { padding: 10px; width:160px; @include round;
         h2 { font-size: 1.5em; font-weight: bold; }
         ul { margin-left: 20px;
             li { list-style-type: disc; font-size: 1.2em; }
         }
-
         &.fixed { position: fixed; top: 10px; }
     }
 }
@@ -78,7 +83,7 @@ section { width: 780px;
         figure { text-align: center; margin: 20px 0 ; }
         .authors { background: white; padding: 10px; display: block;  position: absolute; top: -42px; right: 20px; @include round-top; }
         #disqus_thread { display: none; margin: 20px 0; }
-        #disqus-button { position: absolute; bottom: -2px; left: 350px; }
+        #disqus-button { position: absolute; bottom: -2px; right: 20px; }
     }
 }
 
