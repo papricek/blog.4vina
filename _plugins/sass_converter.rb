@@ -6,7 +6,7 @@ module Jekyll
     priority :low
 
      def matches(ext)
-      ext =~ /sass/i
+      ext =~ /scss/i
     end
 
     def output_ext(ext)
@@ -16,7 +16,7 @@ module Jekyll
     def convert(content)
       begin
         puts "Performing Sass Conversion."
-        engine = Sass::Engine.new(content)
+        engine = Sass::Engine.new(content, :syntax => :scss)
         engine.render
       rescue StandardError => e
         puts "!!! SASS Error: " + e.message
