@@ -1,0 +1,11 @@
+h1. blog.4vina.cz
+
+... just a website, come on!
+
+h2. Run it
+
+<pre>
+
+jekyll --server
+
+</pre>
