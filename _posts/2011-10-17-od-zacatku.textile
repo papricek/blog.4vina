@@ -9,11 +9,16 @@ month: říjen
 year: 2011
 ---
 
+<fafa>
+
 No tak fajn. Jednou se mi to stát muselo, a vlastně se tu na to čeká už celkem dlouho. Ano, ano, víno mi konečně vtrhlo do života. Ale hezky popořadě...
 
-Zajímám se totiž o dobré jídlo. Ne jako každý, kdo si koupí rohlíky se salátem a s radostí se nacpe. Mě totiž baví jídlo taky připravovat! :)) Ale nemyslím, že jsem módní jako všichni ostatní, támhleti, co se ofrňují nad příliš propečenou langustou, či evidentně levným lanýžem. Jak řekl pan Harold McGee: „Cooking can be one of the most satisfying things we do in life. It's a chance to make things with our own hands, nourish and give pleasure to people we care about, and choose exactly what we eat and make part of ourselves.“ (díky Cuketko http://www.cuketka.cz/?p=5681)
+Zajímám se totiž o dobré jídlo. Ne jako každý, kdo si koupí rohlíky se salátem a s radostí se nacpe. Mě totiž baví jídlo taky připravovat! :)) Ale nemyslím, že jsem módní jako všichni ostatní, támhleti, co se ofrňují nad příliš propečenou langustou, či evidentně levným lanýžem. Jak řekl pan Harold McGee:
 
-V životě každého jídlomila přijde okamžik, kdy si vína začne všímat. Jednak se s jeho pomocí dají vykouzlit neuvěřitelné pokrmy (co třeba burgundské hovězí ragů... http://dolcevita.blog.cz/0704/burgundske-hovezi-ragu-boeuf-bourguignon), druhak tak nějak patří k jídlu jako ten správný tekutý doprovod. Otázka tedy už od začátku nezněla "Jestli?", ale "Kdy?".
+bq. „Cooking can be one of the most satisfying things we do in life. It's a chance to make things with our own hands, nourish and give pleasure to people we care about, and choose exactly what we eat and make part of ourselves.“
+ (díky "Cuketko":http://www.cuketka.cz/?p=5681 )
+
+V životě každého jídlomila přijde okamžik, kdy si vína začne všímat. Jednak se s jeho pomocí dají vykouzlit neuvěřitelné pokrmy (co třeba "burgundské hovězí ragů...":http://dolcevita.blog.cz/0704/burgundske-hovezi-ragu-boeuf-bourguignon ), druhak tak nějak patří k jídlu jako ten správný tekutý doprovod. Otázka tedy už od začátku nezněla "Jestli?", ale "Kdy?".
 
 Minulost? Spousta vína s colou, někdy i samotného, nicméně pouze jako prostředek rychlé a levné umělecké inspirace. Stál jsem v bodě nula, jen s vědomím, že to chce prostě jiný přístup. Samozřejmě jsem se pokusil o vstupní studium problematiky :-), štěstí ale nepřálo tolik jako v případě vaření. Koupil jsem asi dvě knihy, ani jedna ale nebyla dostatečně čtivá, abych si odnesl více, než že "glass really matters".
 
@@ -22,3 +27,16 @@ Teorie jsem se ale nechtěl vzdát, pročítal jsem tedy poctivě weby našich w
 A tak jsem to vzal z druhého konce (praxe) a při pravidelném nákupu v Bille (sic!) zabrousil i do vinného oddělení, jediné srozumitelné sdělení pro mě bylo víno z Templářských sklepů (no jasně, dělaj to rytířové, nebo kdo, to bude dobrý). Ne, tak ani tudy cesta nevedla.
 
 A dál?...
+
+</fafa>
+
+
+<honza>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce odio risus, tincidunt lacinia eleifend vitae, aliquet in tellus. Morbi eu quam lectus, a volutpat ante. Phasellus accumsan volutpat pretium. Mauris id congue sapien. Nulla ultrices velit a urna accumsan semper. Nulla ultrices fermentum augue sit amet sagittis. Cras suscipit feugiat ligula eleifend tincidunt. Mauris vehicula dapibus ligula. Curabitur quis scelerisque dolor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut dictum ante at enim faucibus pellentesque convallis justo adipiscing. Sed et lacus leo. Donec aliquam iaculis gravida. Ut convallis accumsan leo, a pulvinar tellus imperdiet nec. Cras vitae libero eu lorem feugiat molestie sed quis nisi. Mauris augue magna, congue non pulvinar sit amet, elementum non turpis.
+
+Nunc vel rhoncus leo. Cras nec velit sed metus pharetra posuere et eu dui. Mauris cursus facilisis ipsum id consectetur. Fusce posuere erat vitae dui suscipit iaculis. Donec nec eros vel massa fermentum consequat pellentesque ac ligula. Curabitur sit amet felis a dui tristique hendrerit quis in nibh. Proin malesuada tincidunt urna eu malesuada.
+
+Nulla eu diam sit amet nulla pretium placerat at nec nisl. Praesent in nulla imperdiet lorem vulputate iaculis. Etiam interdum lacus sed ipsum tincidunt luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc molestie nisi nec orci tempus hendrerit tristique risus ornare. Vestibulum a consectetur risus. Praesent bibendum sodales leo vitae pulvinar.
+
+</honza>

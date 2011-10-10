@@ -100,6 +100,9 @@ section { width: 780px;
         }
         #part-honza { background: url(/images/honza.png) no-repeat bottom right; }
         #part-fafa { background: url(/images/fafa.png) no-repeat bottom right; }
+        blockquote { margin: 10px 40px 10px 40px; padding:0 15px; border-left: 3px solid #ccc; border-right: 3px solid #ccc;
+            p { padding-bottom: 0; text-align: center; font-style: italic; }
+        }
     }
 }
 
