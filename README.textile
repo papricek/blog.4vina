@@ -6,6 +6,6 @@ h2. Run it
 
 <pre>
 
-jekyll --server
+jekyll --server --auto
 
 </pre>
