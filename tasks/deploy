@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+jekyll && rsync -avz --delete _site/ vina4@going.cz:/srv/www/4vina/blog
+
