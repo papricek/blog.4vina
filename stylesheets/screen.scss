@@ -86,8 +86,8 @@ section { width: 780px;
         #disqus-button { position: absolute; bottom: -2px; right: 20px; }
         &.listing {
             time { top: 15px; }
-            .authors { margin-top: 5px; 
-                position: static; float: left; padding: 0 10px; 
+            .authors { margin-top: 5px;
+                position: static; float: left; padding: 0 10px;
             }
             h2 { font-size: 1.4em;
                 a { color: $color; text-decoration: none;
@@ -102,6 +102,10 @@ section { width: 780px;
         #part-fafa { background: url(/images/fafa.png) no-repeat bottom right; }
         blockquote { margin: 10px 40px 10px 40px; padding:0 15px; border-left: 3px solid #ccc; border-right: 3px solid #ccc;
             p { padding-bottom: 0; text-align: center; font-style: italic; }
+        }
+        .illustration {
+            float: right;
+            padding: 10px;
         }
     }
 }
