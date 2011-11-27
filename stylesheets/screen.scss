@@ -33,9 +33,9 @@ $grey_dark: #313538;
 
 
 // elements, page structure
-body { text-align: center; background: url(../images/background.gif);  color: $color; font-family: 'Droid sans'; }
+body { text-align: center; background: url(../images/background.gif);  color: $color; font-family:"Inconsolata", serif; }
 html, body { height: 100%; }
-h1, h2, h3 { font-family: 'Droid serif', Georgia, Serif; font-weight: normal;  }
+h1, h2, h3 { font-family:"Radley", serif; font-weight: normal;  }
 #container { position: relative; width: 980px; margin: auto; text-align: left; min-height: 100%;
   #container-inner { padding-bottom: 70px; }
 }
