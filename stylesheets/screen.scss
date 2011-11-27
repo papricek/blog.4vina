@@ -35,13 +35,13 @@ $grey_dark: #313538;
 // elements, page structure
 body { text-align: center; background: url(../images/background.gif);  color: $color; font-family:"Inconsolata", serif; }
 html, body { height: 100%; }
-h1, h2, h3 { font-family:"Radley", serif; font-weight: normal;  }
+h1, h2, h3 { font-family:"IM Fell Great Primer", serif; font-weight: normal;  }
 #container { position: relative; width: 980px; margin: auto; text-align: left; min-height: 100%;
   #container-inner { padding-bottom: 70px; }
 }
 header.main { padding: 30px 0 20px 60px;
     h1 { position: relative;
-        span { position: absolute; top: 24px; left: -70px; font-size: 2em; font-style: italic; }
+        span { position: absolute; top: 24px; left: -70px; font-size: 2em; }
     }
 }
 
