@@ -4,6 +4,7 @@ title: Jednou to přijít muselo
 perex: Napůl říznout, ať je to dobrý. Kachna je totiž moderátorka. Takže zpátky do pařáku.
 authors:
 - fafa
+- honza
 day: 17
 month: říjen
 year: 2011

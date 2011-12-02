@@ -72,6 +72,7 @@ aside {  position: absolute; top: 160px; right: 0; width: 160px;
 // content, article
 section { width: 780px;
     article { background: white; padding: 20px 20px 40px 20px; margin: 10px 0px 10px 50px; position: relative; @include round;
+	#content { overflow:hidden; }
         h1 { font-size: 2.1em; margin-bottom: 15px; }
         p { font-size: 1.2em; padding-bottom: 15px; }
         time { background: white; padding: 5px 10px 5px 10px; text-align: center; display: block;
