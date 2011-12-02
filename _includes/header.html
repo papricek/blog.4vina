@@ -1,0 +1,13 @@
+<header>
+    <time>
+        <span class="day">{{ page.day }}</span>
+        <span class="month">{{ page.month }}</span>
+        <span class="year">{{ page.year }}</span>
+    </time>
+            <span class="authors">
+                {% for author in page.authors %}
+                <img src="/images/{{ author }}.png" alt="{{ author | capitalize }}"/>
+                {% endfor %}
+            </span>
+    <h1><a href="{{page.url}}">{{ page.title }}</a></h1>
+</header>

@@ -73,7 +73,11 @@ aside {  position: absolute; top: 160px; right: 0; width: 160px;
 section { width: 780px;
     article { background: white; padding: 20px 20px 40px 20px; margin: 10px 0px 10px 50px; position: relative; @include round;
 	#content { overflow:hidden; }
-        h1 { font-size: 2.1em; margin-bottom: 15px; }
+        h1 { font-size: 2.1em; margin-bottom: 15px; 
+	    a { color: $color!important; text-decoration: none; 
+		&:hover { color: $hover; text-decoration: underline; }
+	    }	
+	}
         p { font-size: 1.2em; padding-bottom: 15px; }
         time { background: white; padding: 5px 10px 5px 10px; text-align: center; display: block;
             position: absolute; top: 17px; left: -65px;  @include round-left;
@@ -97,7 +101,7 @@ section { width: 780px;
             }
         }
         .partial-post {
-           float: left; width: 305px; margin: 20px 20px 20px 20px; padding-bottom: 25px; text-align: justify;
+           float: left; width: 265px; margin: 0px 30px 20px 30px; padding-bottom: 25px; text-align: justify;
         }
         #part-honza { background: url(/images/honza.png) no-repeat bottom right; }
         #part-fafa { background: url(/images/fafa.png) no-repeat bottom right; }

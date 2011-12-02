@@ -1,19 +1,7 @@
 <section>
     <article>
-        <header>
-            <time>
-                <span class="day">{{ page.day }}</span>
-                <span class="month">{{ page.month }}</span>
-                <span class="year">{{ page.year }}</span>
-            </time>
-                    <span class="authors">
-                        {% for author in page.authors %}
-                        <img src="/images/{{ author }}.png" alt="{{ author | capitalize }}"/>
-                        {% endfor %}
-                    </span>
 
-            <h1>{{ page.title }}</h1>
-        </header>
+	{% include header.html %}
 
 	<div id="content">
         {{ page.content }}
