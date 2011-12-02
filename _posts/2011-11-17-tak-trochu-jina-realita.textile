@@ -7,6 +7,7 @@ authors:
 day: 17
 month: listopad
 year: 2011
+published: false
 ---
 
 Upozornění: Tento článek vzniká v brněnském nákupním centru Vaňkovka, uprostřed občerstvovací zóny. Možná je ovlivněn nadměrným výskytem moderního životní stylu všude kolem. Ale spíš není.
