@@ -7,6 +7,7 @@ authors:
 day: 21
 month: červen
 year: 2012
+published: false
 ---
 
 Neříkejte mi, že je to tak těžké. Člověk se přece musí dostat k vínu i poslepu. Poslepu? 	
