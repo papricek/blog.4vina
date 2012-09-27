@@ -1,0 +1,12 @@
+---
+layout: post
+title: 4 vinárny - Dejvice
+perex: 
+authors:
+- fafa
+day: 21
+month: červen
+year: 2012
+---
+
+Neříkejte mi, že je to tak těžké. Člověk se přece musí dostat k vínu i poslepu. Poslepu? 	
