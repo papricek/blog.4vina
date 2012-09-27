@@ -76,9 +76,10 @@ section { width: 780px;
         h1 { font-size: 2.1em; margin-bottom: 15px; 
 	       a { color: $color!important; text-decoration: none; 
 		  &:hover { color: $hover; text-decoration: underline; }
-	    }	
-        h2 { font-size: 1.7em; }
-	}
+	       }	
+        
+	   }
+       h2 { font-size: 1.7em; }
         p { font-size: 1.2em; padding-bottom: 15px; }
         time { background: white; padding: 5px 10px 5px 10px; text-align: center; display: block;
             position: absolute; top: 17px; left: -65px;  @include round-left;
