@@ -80,7 +80,7 @@ section { width: 780px;
         
 	   }
        h2 { font-size: 1.7em; }
-        p { font-size: 1.2em; padding-bottom: 15px; }
+        p { font-size: 1.2em; padding-bottom: 15px; line-height: 150%; }
         time { background: white; padding: 5px 10px 5px 10px; text-align: center; display: block;
             position: absolute; top: 17px; left: -65px;  @include round-left;
             span { display: block; text-align: center; width: 55px;
@@ -103,7 +103,7 @@ section { width: 780px;
             }
         }
         .partial-post {
-           float: left; width: 265px; margin: 0px 30px 20px 30px; padding-bottom: 25px; text-align: justify;
+           float: left; width: 325px; margin: 0px 10px 20px 10px; padding-bottom: 25px; 
         }
         #part-honza { background: url(/images/honza.png) no-repeat bottom right; }
         #part-fafa { background: url(/images/fafa.png) no-repeat bottom right; }
