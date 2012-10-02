@@ -7,6 +7,7 @@ authors:
 day: 21
 month: červen
 year: 2012
+published: false
 ---
 
 Mezi Hradčanskou a Dejvickou se nachází více vinně (+kavárensky, +restauračně) zaměřených podniků: namátkou Potrvá, Kabinet, Restaurace na rozhraní, Vypálené koťátko. Já navštívil pouze ty, kde jde čistě o víno. 
