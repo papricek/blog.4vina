@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jednou to přijít muselo
-perex: Napůl říznout, ať je to dobrý. Kachna je totiž moderátorka. Takže zpátky do pařáku.
+title: Od začátku
+perex: Pro pražáka je „co moravák to vinař“. A když zas pražák potká moraváka, co mu začne popisovat rodíly mezi odrůdama a jak se které víno vyrábí, je pražákovi hned jasné, že mluví s někým, kdo má na Moravě dvacet hektarů vinic a deset generací historie výroby tohoto lahodného moku.
 authors:
 - fafa
 - honza
@@ -14,18 +14,18 @@ year: 2011
 
 No tak fajn. Jednou se mi to stát muselo, a vlastně se tu na to čeká už celkem dlouho. Ano, ano, víno mi konečně vtrhlo do života. Ale hezky popořadě...
 
-Zajímám se totiž o dobré jídlo. Ne jako každý, kdo si koupí rohlíky se salátem a s radostí se nacpe. Mě totiž baví jídlo taky připravovat! :)) Ale nemyslím, že jsem módní jako všichni ostatní, támhleti, co se ofrňují nad příliš propečenou langustou, či evidentně levným lanýžem. Jak řekl pan Harold McGee:
+Zajímám se totiž o dobré jídlo. Ne jako každý, kdo si koupí rohlíky se salátem a s radostí se nacpe. Mě totiž baví jídlo taky připravovat! :-) Ale nemyslím, že jsem foodfašista, jako někteří, támhleti, co se ofrňují nad příliš propečenou langustou, či evidentně levným lanýžem. Jak řekl pan Harold McGee:
 
 bq. „Cooking can be one of the most satisfying things we do in life. It's a chance to make things with our own hands, nourish and give pleasure to people we care about, and choose exactly what we eat and make part of ourselves.“
  (díky "Cuketko":http://www.cuketka.cz/?p=5681 )
 
 V životě každého jídlomila přijde okamžik, kdy si vína začne všímat. Jednak se s jeho pomocí dají vykouzlit neuvěřitelné pokrmy (co třeba "burgundské hovězí ragů...":http://dolcevita.blog.cz/0704/burgundske-hovezi-ragu-boeuf-bourguignon ), druhak tak nějak patří k jídlu jako ten správný tekutý doprovod. Otázka tedy už od začátku nezněla "Jestli?", ale "Kdy?".
 
-Minulost? Spousta vína s colou, někdy i samotného, nicméně pouze jako prostředek rychlé a levné umělecké inspirace. Stál jsem v bodě nula, jen s vědomím, že to chce prostě jiný přístup. Samozřejmě jsem se pokusil o vstupní studium problematiky :-), štěstí ale nepřálo tolik jako v případě vaření. Koupil jsem asi dvě knihy, ani jedna ale nebyla dostatečně čtivá, abych si odnesl více, než že "glass really matters".
+Minulost? Spousta vína s colou, někdy i samotného, nicméně pouze jako prostředek rychlé a levné umělecké inspirace. Stál jsem v&nbsp;bodě nula, jen s vědomím, že to chce prostě jiný přístup. Samozřejmě jsem se pokusil o&nbsp;vstupní studium problematiky :-), štěstí ale nepřálo tolik jako v případě vaření. Koupil jsem asi dvě knihy, ani jedna ale nebyla dostatečně čtivá, abych si odnesl více, než že "glass really matters".
 
-Teorie jsem se ale nechtěl vzdát, pročítal jsem tedy poctivě weby našich wineblogerů. A po pár pokusech jsem to vzdal, nerozuměl jsem totiž ničemu a čemu jsem rozuměl, toho jsem se bál. U každého popisovaného vína mě napadal následující sled otázek: Bude mi to chutnat? Kde to seženu s nějakou rozumnou námahou? Musím vážně čekat do léta, až bude tohle víno mít sezónu? A sakra, jak se vlastně čte ten název, až to teda budu shánět???
+Teorie jsem se ale nechtěl vzdát, pročítal jsem tedy poctivě weby našich wineblogerů. A po pár pokusech jsem to vzdal, nerozuměl jsem totiž ničemu a čemu jsem rozuměl, toho jsem se bál. U&nbsp;každého popisovaného vína mě napadal následující sled otázek: Bude mi to chutnat? Kde to seženu s nějakou rozumnou námahou? Musím vážně čekat do léta, až bude tohle víno mít sezónu? A sakra, jak se vlastně čte ten název, až to teda budu shánět???
 
-A tak jsem to vzal z druhého konce (praxe) a při pravidelném nákupu v Bille (sic!) zabrousil i do vinného oddělení, jediné srozumitelné sdělení pro mě bylo víno z Templářských sklepů (no jasně, dělaj to rytířové, nebo kdo, to bude dobrý). Ne, tak ani tudy cesta nevedla.
+A tak jsem to vzal z druhého konce (praxe) a při pravidelném nákupu v Bille (sic!) zabrousil i&nbsp;do vinného oddělení, jediné srozumitelné sdělení pro mě bylo víno z Templářských sklepů (no jasně, dělaj to rytířové, nebo kdo, to bude dobrý). Ne, tak ani tudy cesta nevedla.
 
 A dál?...
 
@@ -34,10 +34,9 @@ A dál?...
 
 <honza>
 
-Pro pražáka je „co moravák to vinař“ (prosím o odpuštění za tuto generalizaci, ale mně to tak přijde). A když zas pražák potká moraváka, co mu začne popisovat rodíly mezi odrůdama a jak se které víno vyrábí, je pražákovi hned jasné, že mluví s někým kdo má na Moravě dvacet hektarů vinic a deset generací historie výroby tohoto lahodného moku.
+Pro pražáka je „co moravák to vinař“ (prosím o odpuštění za tuto generalizaci, ale mně to tak přijde). A když zas pražák potká moraváka, co mu začne popisovat rodíly mezi odrůdama a jak se které víno vyrábí, je pražákovi hned jasné, že mluví s někým, kdo má na Moravě dvacet hektarů vinic a deset generací historie výroby tohoto lahodného moku.
 
-Jednou pro vždy, není tomu tak. Právě naopak! Na Moravě se sice pije víno (a slivovica) víc než v Čechách, ale generalizovat se v tomto ohledu fakt nedá. Začneme-li mluvit o Moravě jiho-východní, je situace maličko jiná, pořád se ale pořád se nedá říct, že, kdo bydlí na jih od Zlína, ten je znalec vína. Já měl to štěstí, že rodiče se rozhodli usídlit na jihu Moravy, odkud pochází táta, ať už pro lásku k tomuto kraji, či pro lepší
-možnosti uplatnění (ve srovnání s ostravskem té doby). Víno bylo od malička nedílnou součástí mojeho života. Má nejstarší vzpomínka je, jak mě jako malého posílala máma do sámošky pro litrovku kláštorného červeného (jediné pitné víno, co se tehdy dalo v obchodě koupit). Dnes nechápu jak mi mohli jako desetiletému flašku s nějakými rohlíky vlastně prodat.
+Jednou pro vždy, není tomu tak. Právě naopak! Na Moravě se sice pije víno (a slivovica) víc než v&nbsp;Čechách, ale generalizovat se v&nbsp;tomto ohledu fakt nedá. Začneme-li mluvit o Moravě jiho-východní, je situace maličko jiná, pořád se ale pořád se nedá říct, že, kdo bydlí na jih od Zlína, ten je znalec vína. Já měl to štěstí, že rodiče se rozhodli usídlit na jihu Moravy, odkud pochází táta, ať už pro lásku k&nbsp;tomuto kraji, či pro lepší mož- nosti uplatnění (ve srovnání s&nbsp;ostravskem té doby). Víno bylo od malička nedílnou součástí mojeho života. Má nejstarší vzpomínka je, jak mě jako malého posílala máma do sámošky pro litrovku kláštorného červeného (jediné pitné víno, co se tehdy dalo v obchodě koupit). Dnes nechápu jak mi mohli jako desetiletému flašku s nějakými rohlíky vlastně prodat.
 
-Rodinné prostředí a možnosti kraje, kde jsem vyrůstal, ze mě vychovaly člověka, co o víně něco ví a dává si pozor co pije. Rozhodně nejsem žádný vinařský expert, ale jak by se řeklo u nás, „už mám cosi odpité“. A o tom to je, přátelé. Abyste poznali svět je třeba ho procestovat, abyste poznali vína, je třeba je pít. Cestovat i pít se da mnoha způsoby: někdo jen obdivuje krajinu zevnitř jedoucího autobusu a někdo se zastaví, aby poznal místní zvyky a kulturu.
+Rodinné prostředí a možnosti kraje, kde jsem vyrůstal, ze mě vychovaly člověka, co o víně něco ví a dává si pozor co pije. Rozhodně nejsem žádný vinařský expert, ale jak by se řeklo u nás, „už mám cosi odpité“. A o tom to je, přátelé. Abyste poznali svět, je třeba ho procestovat. Abyste poznali vína, je třeba je pít. Cestovat i pít se da mnoha způsoby: někdo jen obdivuje krajinu zevnitř jedoucího autobusu a někdo se zastaví, aby poznal místní zvyky a kulturu.
 </honza>
