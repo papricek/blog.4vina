@@ -46,11 +46,12 @@ $grey_dark: #313538;
     font-style: normal;
 }
 
-
-
+::-moz-selection{ background: $grey_dark; color:#fff; text-shadow: none; }
+::selection { background: $grey_dark; color:#fff; text-shadow: none; }
 
 // elements, page structure
-body { text-align: center; background: url(../images/background.gif);  color: $color; font-family:"Inconsolata", serif; }
+body { text-align: center; background: url(../images/background.gif);  color: $color; 
+    font-family:"Inconsolata", serif; font-size: 1em; }
 html, body { height: 100%; }
 h1, h2, h3 { font-family:"Conv_FeGPrm27C", serif; font-weight: normal;  }
 #container { position: relative; width: 980px; margin: auto; text-align: left; min-height: 100%;
@@ -76,7 +77,7 @@ footer { height: 50px; margin-top: -52px; clear: both; text-align: center;
 
 aside {  position: absolute; top: 160px; right: 0; width: 160px;
     nav { padding: 10px; width:160px; @include round;
-        h2 { font-size: 1.5em; font-weight: bold; }
+        h2 { font-size: 1.5em; }
         ul { margin-left: 20px; margin-top: 10px; 
             li { list-style-type: disc; font-size: 1.2em; }
         }
