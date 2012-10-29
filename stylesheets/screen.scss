@@ -30,12 +30,29 @@ $grey_dark: #313538;
     border-top-right-radius: $radius;
 }
 
+@font-face {
+    font-family: 'Conv_Inconsolata';
+    src: url('/fonts/Inconsolata.eot');
+    src: local('☺'), url('/fonts/Inconsolata.woff') format('woff'), url('/fonts/Inconsolata.ttf') format('truetype'), url('/fonts/Inconsolata.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Conv_FeGPrm27C';
+    src: url('/fonts/FeGPrm27C.eot');
+    src: local('☺'), url('/fonts/FeGPrm27C.woff') format('woff'), url('/fonts/FeGPrm27C.ttf') format('truetype'), url('/fonts/FeGPrm27C.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 
 
 // elements, page structure
 body { text-align: center; background: url(../images/background.gif);  color: $color; font-family:"Inconsolata", serif; }
 html, body { height: 100%; }
-h1, h2, h3 { font-family:"IM Fell Great Primer", serif; font-weight: normal;  }
+h1, h2, h3 { font-family:"Conv_FeGPrm27C", serif; font-weight: normal;  }
 #container { position: relative; width: 980px; margin: auto; text-align: left; min-height: 100%;
   #container-inner { padding-bottom: 70px; }
 }
