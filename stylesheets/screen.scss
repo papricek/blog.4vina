@@ -60,7 +60,7 @@ footer { height: 50px; margin-top: -52px; clear: both; text-align: center;
 aside {  position: absolute; top: 160px; right: 0; width: 160px;
     nav { padding: 10px; width:160px; @include round;
         h2 { font-size: 1.5em; font-weight: bold; }
-        ul { margin-left: 20px;
+        ul { margin-left: 20px; margin-top: 10px; 
             li { list-style-type: disc; font-size: 1.2em; }
         }
         &.fixed { position: fixed; top: 10px; }
@@ -81,6 +81,7 @@ section { width: 780px;
 	   }
        h2 { font-size: 1.7em; }
         p { font-size: 1.2em; padding-bottom: 15px; line-height: 150%; }
+        ul, ol { font-size: 1.2em;padding-bottom: 15px; }
         time { background: white; padding: 5px 10px 5px 10px; text-align: center; display: block;
             position: absolute; top: 17px; left: -65px;  @include round-left;
             span { display: block; text-align: center; width: 55px;
