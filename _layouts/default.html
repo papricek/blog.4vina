@@ -9,9 +9,13 @@
 <html lang="cs"> <!--<![endif]-->
 <head>
     <meta charset="utf-8">
+    <title>{{ page.title }}
 
-    <title>4vina.cz blog</title>
-    <meta name="description" content="">
+        {% if page.url != '/index.html' %}
+         {{ " | Blog 4vína.cz" }}
+        {% endif %}
+     </title>
+    <meta name="description" content="{{ page.perex }}">
     <meta name="author" content="">
 
     <link rel="shortcut icon" href="/images/favicon.ico">
