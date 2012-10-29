@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 vinárny
-perex: 
+perex: Všimli jste si domáckých útulných vinárniček v podzemním patře nějakého z pražských činžáků? A byli jste už v nějaké takové?  
 authors:
 - fafa
 day: 24
