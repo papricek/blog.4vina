@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 vinárny
-perex: Všimli jste si domáckých útulných vinárniček v podzemním patře nějakého z pražských činžáků? A byli jste už v nějaké takové?  
+perex: Všimli jste si domáckých útulných vinárniček v podzemním patře nějakého z pražských činžáků? A byli jste už v nějaké takové? My je plánujeme projít přinejmenším všechny. Omrknout, vyzpovídat, popít. A hodit o tom sem report. 
 authors:
 - fafa
 day: 24
