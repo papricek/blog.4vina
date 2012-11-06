@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 vinárny - Dejvice
-perex: 
+perex: Dejvice asi nejsou čtvrť prvoplánově stvořená pro tenhle druh podniků. Věřte ale, že to tady funguje bezvadně. Dejvický vinný sklípek, Café & Vinný bar Světáci, Pálavská vinárna, Vínečko U Martina. 
 authors:
 - fafa
 day: 11
@@ -89,5 +89,5 @@ Ani jednou jsem se nemusel vyjadřovat k obsluze, protože mi všude přišla sk
 
 Sice mě to coby nenasytného člověka trochu zamrzelo, nicméně nikde se mě nepokusili uplatit. Prima ;-).
 
-Dejvice asi nejsou prvoplánově čtvrť vážně stvořená pro tenhle druh podniků. Věřte ale, že to tady funguje bezvadně (důkazem budiž, že jsem bez problémů našel 4 vinárny blízko sebe, jinde to bude asi složitější).
+Dejvice asi nejsou čtvrť prvoplánově stvořená pro tenhle druh podniků. Věřte ale, že to tady funguje bezvadně (důkazem budiž, že jsem bez problémů našel 4 vinárny blízko sebe, jinde to bude asi složitější).
 
