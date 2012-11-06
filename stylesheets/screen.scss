@@ -106,7 +106,7 @@ section { width: 780px;
                 &.day { font-size: 2em; }
             }
         }
-        figure { text-align: center; margin: 20px 0 ; }
+        figure { text-align: center; margin: 20px 10px ; }
         .authors { background: white; padding: 10px; display: block;  position: absolute; top: -42px; right: 20px; @include round-top; }
         #disqus_thread { display: none; margin: 20px 0; }
         #disqus-button { position: absolute; bottom: -2px; right: 20px; }
