@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 4vína poprvé
-perex: 
 authors:
 - fafa
 - honza
