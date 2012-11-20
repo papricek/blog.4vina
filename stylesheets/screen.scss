@@ -120,6 +120,7 @@ section { width: 780px;
                     &:hover { text-decoration: underline; }
                 }
             }
+            p { clear: left; }
         }
         .partial-post {
            float: left; width: 325px; margin: 0px 10px 20px 10px; padding-bottom: 25px; 
