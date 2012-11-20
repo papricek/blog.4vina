@@ -7,12 +7,14 @@ authors:
 day: 20
 month: listopad
 year: 2012
-published: true
+published: false
 ---
+
+A jak slíbili, tak také učinili. Prosím o ticho, přicházejí se představit hlavní účinkující:
 
 !(illustration)/images/posts/ryzlink-rynsky-mikulov-2008.jpg(Ryzlink rýnský, Chateau Mikulov, 2008 pozdní sběr)!
 
-h2. Ryzlink rýnský, Chateau Mikulov, 2008, pozdní sběr
+h2. Ryzlink rýnský, Chateau Mikulov, 2008, ps
 
 Známé bílé odrůdě se často přezdívá „víno králů“. Tak dobrou pověst Ryzlinku vydobyla velká něměcká vína Riseling. Bohužel se jako Ryzlinky  označují i vína z Jižní Afriky nebo Austrálie, kterým označení „jemná a ušlechtilá“ nenáleží. Opatrnost ve výběru Ryzlinku je proto na místě. Mladší Ryzlinky možno spatřit v zelenožlutém provedení, zráním přebarví do zlatavé a tmavších tónů. Víno bývá obvykle kyselejší a v kvalitním provedenim suché (laiky je ale nesprávně zaškatulkováno mezi sladké odrůdy), s malým či decentním obsahem cukru, zato ale květinovou či ovocnou chutí. Podle doby sklizně a zrání mohou být Ryzlinky buď lehčí a osvěžující, nebo dospělá a celistvá vína. Vhodnost odrůdy k&nbsp;archivaci ale obvykle předurčuje Ryzlinky k létům na lahvi. Pokud chceme špičkové dezertní víno, nemůžeme se u&nbsp;evropského Ryzlinku splést. 
 
