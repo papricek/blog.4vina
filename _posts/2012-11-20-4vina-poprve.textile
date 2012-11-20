@@ -11,7 +11,7 @@ year: 2012
 published: true
 ---
 
-Už jsme se "na začátku":/od-zacatku/ zmínili, kdože jsme, a jak to s tím vínem máme. Řekli jsme, jaký je náš příběh, neřekli jsme ale, proč se tu poslední dobou zjevujeme.
+Už jsme se na začátku zmínili, kdože jsme, a jak to s tím vínem máme. Řekli jsme, jaký je náš příběh, neřekli jsme ale, proč se tu poslední dobou zjevujeme.
 
 h2. Kde? Jak?
 
