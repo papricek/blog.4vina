@@ -5,6 +5,7 @@ perex:
 authors:
 - fafa
 - honza
+perex: Štve nás, že by spousta lidí mohla pít lepší víno, než pije. Mnozí z vás si totiž víno jednoduše neumí vybrat a občas je vám i líto času stráveného jeho obstaráváním. Radši si ho koupíte v Bille. Pokusíme se vám s tím pomoci.
 day: 20
 month: listopad
 year: 2012
