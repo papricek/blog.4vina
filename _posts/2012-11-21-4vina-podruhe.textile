@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 4vína poprvé
-perex: Ryzlink Rýnský, Muškát Moravský, Neuburské, Cabernet Sauvignon
+title: 4vína podruhé
+perex: Ryzlink rýnský (Chateau Mikulov, 2008, p.s.), Muškát moravský (Spielberg, 2010), Neuburské (Lahofer, 2011), Cabernet Sauvignon (Víno z Kobylí, 2008)
 authors:
 - fafa
 day: 20
@@ -14,7 +14,7 @@ A jak slíbili, tak také učinili. Prosím o ticho, přicházejí se představi
 
 !(illustration)/images/posts/ryzlink-rynsky-mikulov-2008.jpg(Ryzlink rýnský, Chateau Mikulov, 2008 pozdní sběr)!
 
-h2. Ryzlink rýnský, Chateau Mikulov, 2008, ps
+h2. Ryzlink rýnský, Chateau Mikulov, 2008
 
 Známé bílé odrůdě se často přezdívá „víno králů“. Tak dobrou pověst Ryzlinku vydobyla velká něměcká vína Riseling. Bohužel se jako Ryzlinky  označují i vína z Jižní Afriky nebo Austrálie, kterým označení „jemná a ušlechtilá“ nenáleží. Opatrnost ve výběru Ryzlinku je proto na místě. Mladší Ryzlinky možno spatřit v zelenožlutém provedení, zráním přebarví do zlatavé a tmavších tónů. Víno bývá obvykle kyselejší a v kvalitním provedenim suché (laiky je ale nesprávně zaškatulkováno mezi sladké odrůdy), s malým či decentním obsahem cukru, zato ale květinovou či ovocnou chutí. Podle doby sklizně a zrání mohou být Ryzlinky buď lehčí a osvěžující, nebo dospělá a celistvá vína. Vhodnost odrůdy k&nbsp;archivaci ale obvykle předurčuje Ryzlinky k létům na lahvi. Pokud chceme špičkové dezertní víno, nemůžeme se u&nbsp;evropského Ryzlinku splést. 
 
