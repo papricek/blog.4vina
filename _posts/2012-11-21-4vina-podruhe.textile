@@ -2,6 +2,7 @@
 layout: post
 title: 4vína podruhé
 perex: Ryzlink rýnský (Chateau Mikulov, 2008, p.s.), Muškát moravský (Spielberg, 2010), Neuburské (Lahofer, 2011), Cabernet Sauvignon (Víno z Kobylí, 2008)
+image: http://blog.4vina.cz/images/posts/logo-square.png
 authors:
 - fafa
 day: 21

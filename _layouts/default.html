@@ -27,6 +27,14 @@
     <script src="/javascripts/html5.js" type="text/javascript"></script><![endif]-->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
 
+    <meta property="og:type" content="blog"/>
+    <meta property="og:site_name" content="Blog 4vína.cz"/>
+    {% if page.url != '/index.html' %}
+    <meta property="og:title" content="{{ page.title }} | Blog 4vína.cz"/>
+    <meta property="og:description" content="{{ page.perex }}" />
+    {% endif %}
+    {% if page.image %}<meta property="og:image" content="{{page.image}}"/>{% endif %}
+
 </head>
 
 <body>
