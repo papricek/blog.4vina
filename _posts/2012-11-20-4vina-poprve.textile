@@ -26,7 +26,7 @@ h2. Fajn, co bude dál?
 Zítra vám představíme naši selekci vína a ve čtvrtek spustíme obchod. Co vy na to? ;-)
 
 <figure>
-	!/images/posts/logo-square.png(4vína.cz)!
+	!/images/posts/logo-square.png(4vína.cz)!:http://4vina.cz
 </figure>
 
 

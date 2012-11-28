@@ -23,7 +23,7 @@ _Líného_, protože nákup u nás nestojí moc času ani námahy. Naklikám, za
 Tak ať se dobře pije!
 
 <figure>
-	!/images/posts/logo-square.png(4vína.cz)!
+	!/images/posts/logo-square.png(4vína.cz)!:http://4vina.cz
 </figure>
 
 P.S. A bonus? Že jsme nedali nic k dobru? Co třeba "youtube kanál":http://www.youtube.com/user/4vinacz ? Stačí? ;-)
