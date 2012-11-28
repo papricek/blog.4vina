@@ -51,9 +51,16 @@
             <nav id="main-navigation">
                 <h2>Kam dál:</h2>
                 <ul>
-                    <li><a href="/od-zacatku">Kdo že sme</a></li>
+                    <li><a href="http://4vina.cz">4vína.cz</a></li>
+                    <li><a href="http://facebook.com/4vinacz">facebook</a></li>
+                    <li><a href="http://twitter.com/4vina">twitter</a></li>
                 </ul>
-
+                <h2>Archiv:</h2>
+                <ul>                
+				{% for post in site.posts limit:10 %}
+					<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endfor %}
+				</ul>
             </nav>
         </aside>
     </div>
