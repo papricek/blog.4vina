@@ -83,6 +83,9 @@ aside {  position: absolute; top: 160px; right: 0; width: 160px;
             li { list-style-type: disc; font-size: 1.2em; }
         }
         &.fixed { position: fixed; top: 10px; }
+        #social { margin: 0px 10px; 
+            a { margin-right: 20px; margin-top: 20px; }
+        }
     }
 }
 

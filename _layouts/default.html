@@ -54,6 +54,7 @@
                     <li><a href="http://4vina.cz">4vína.cz</a></li>
                     <li><a href="http://blog.4vina.cz/archiv.html">Archiv blogu</a></li>
                 </ul>
+                <div id="social">{% include social.html %}</div>
             </nav>
         </aside>
     </div>
@@ -64,10 +65,7 @@
     <div id="footer-inner">
         <p>
             <a href="/archiv.html" id="link-to-all">Další články &raquo;</a>
-            <a href="/rss.xml" class="icon icon-rss">RSS</a>
-            <a href="http://twitter.com/#!/4vina" class="icon icon-twitter"></a>
-            <a href="http://www.facebook.com/4vinacz" class="icon icon-facebook"></a>
-            <a href="http://www.youtube.com/user/4vinacz" class="icon icon-youtube"></a>
+            {% include social.html %}
              &copy; <a href="http://www.4vina.cz">4vina.cz</a>
         </p>
     </div>
