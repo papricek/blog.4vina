@@ -1,0 +1,33 @@
+---
+layout: post
+title: 4vína potřetí - spouštíme!
+authors:
+- fafa
+- honza
+perex: Spouštíme. 
+day: 28
+month: listopad
+year: 2012
+image: http://blog.4vina.cz/images/posts/logo-square.png
+published: true
+---
+
+bq. &bdquo;Včera sem vypil poslední lahev. Kde teď jako nakoupim???&ldquo;
+&bdquo;Mi povídej, kámo. Co se dá dělat, prostě až pojedeš přes Brno.&ldquo;
+&bdquo;Nebo zavolám Máně, ta někoho zná, si řikal.&ldquo;
+&bdquo;Ti nevim, minule se to nedalo pít.&ldquo;
+&bdquo;Hm&hellip;&ldquo;
+
+Slíbili jsme, že tyhle debaty o víně postupně vymýtíme. Že spustíme shopík hned jak to půjde. Teď už to jde. Představujeme vám náš "obchod s vínem trošku jinak.":http://www.4vina.cz
+
+Všechna 4 vína mají svoje místo ve sklenici náročného, leč líného konzumenta. 
+
+_Náročného_, protože se fakt nejedná o krabicáky, viz "podrobnější rozbor":http://blog.4vina.cz/4vina-poprve/ . 
+
+_Líného_, protože nákup u nás nestojí moc času ni námahy. Naklikám, zaplatim, piju.
+
+<figure>
+	!/images/posts/logo-square.png(4vína.cz)!
+</figure>
+
+P.S. A bonus? Že jsme nedali nic k dobru? Co třeba "youtube kanál":http://www.youtube.com/user/4vinacz ? Stačí? ;-)
